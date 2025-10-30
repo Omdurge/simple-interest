@@ -11,7 +11,13 @@ Simple Interest = (Principal * Rate * Time) / 100
 - `CODE_OF_CONDUCT.md` — Contributor conduct guidelines.
 - `CONTRIBUTING.md` — Instructions for contributors.
 
+- Fixed typo in README
+
 ## ⚙️ Usage
 Run the script using:
 ```bash
 bash simple-interest.sh
+
+
+
+
